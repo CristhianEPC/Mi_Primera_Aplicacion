@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365855773427",
+    "project_id": "mi-primera-aplicacion-d2175",
+    "storage_bucket": "mi-primera-aplicacion-d2175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365855773427:android:e5ed2b7313fc9579d1dd86",
+        "android_client_info": {
+          "package_name": "com.cristhianpallmay.miprimeraaplicacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365855773427-q27dgflhrd168jao9moe3isvq80tn5a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiI7NK9Au8rEoNyt10k-1--StV5ng8QXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365855773427-q27dgflhrd168jao9moe3isvq80tn5a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Mi Primera Aplicacion</string>
+    <string name="Ingresar">Sing Up</string>
+    <string name="Registrar">Sing Up</string>
+</resources>
